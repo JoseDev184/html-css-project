@@ -4,3 +4,4 @@ working on the basing HTML & css to refrest my memories and basing fundamental s
 html & css I have to be super good on this area to keep get it! fundameltan are super importan 
 $$&&&
 
+Im working on this project hover is the tool that with use to shadow a element!
