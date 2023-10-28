@@ -21,3 +21,6 @@ node js allow developer to write and run  javascript appications on the server d
 to also write tool to help them with local web developer.
 
 "NPM init"in the command line is going to crear a packages jason to start working with sass
+
+ npm install node-sass --save-dev to create a  sass compiled on the terminal
+ 
