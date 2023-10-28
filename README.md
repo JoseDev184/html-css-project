@@ -19,3 +19,5 @@ extends:to make different selector inherit declaracions that are common to all o
 
 node js allow developer to write and run  javascript appications on the server developer starter using node js
 to also write tool to help them with local web developer.
+
+"NPM init"in the command line is going to crear a packages jason to start working with sass
