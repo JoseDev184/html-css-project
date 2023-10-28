@@ -16,3 +16,6 @@ partials and imports: to write css in different file and importing them all into
 mixins:to write reausable of css code;
 funtions: similar to mixins,with the diferente that they produce a value that can be used;
 extends:to make different selector inherit declaracions that are common to all of them;
+
+node js allow developer to write and run  javascript appications on the server developer starter using node js
+to also write tool to help them with local web developer.
