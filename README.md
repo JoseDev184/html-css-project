@@ -13,7 +13,7 @@ variable: for reusable values such as colors, font sizes, and spaces;
 nesting: to nest selectors inside of one another, allowing us to write less code;
 operations: for mathematical operations  right inside;
 partials and imports: to write CSS in different files and import them all into one single file;
-mixins:to write reusable of CSS code;
+mixins: to write reusable CSS code;
 functions: similar to mixins, with the difference that they produce a value that can be used;
 extends: to make different selectors inherit declarations that are common to all of them;
 
@@ -26,4 +26,6 @@ to also write tools to help them with local web development.
  working on the error terminal show now!
 
  so far I have created a package.json for de dependency on the project  I have to update the version for both NPM and Node Js.
+ the command line was " NPM INIT" and NPM install other I have to run a command "NPM install node-sass --save-dev"!
+ I'm  working on running the command line "npm run compile:sass" to compile the css with the sass file 
  
