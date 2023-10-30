@@ -17,11 +17,13 @@ mixins:to write reusable of CSS code;
 functions: similar to mixins, with the difference that they produce a value that can be used;
 extends: to make different selectors inherit declarations that are common to all of them;
 
-node js allow the developer to write and run  javascript applications on the server developer starter using node js
+node js allows the developer to write and run  javascript applications on the server developer starter using node js
 to also write tools to help them with local web development.
 
-"NPM init" in the command line is going to create a packages Jason to start working with Sass
+"NPM init" in the command line is going to create a package Json to start working with Sass
 
  npm install node-sass --save-dev to create a  sass compiled on the terminal
  working on the error terminal show now!
+
+ so far I have created a package.json for de dependency on the project  I have to update the version for both NPM and Node Js.
  
