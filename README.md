@@ -23,4 +23,5 @@ to also write tool to help them with local web developer.
 "NPM init"in the command line is going to crear a packages jason to start working with sass
 
  npm install node-sass --save-dev to create a  sass compiled on the terminal
+ working on error terminal show now !
  
