@@ -30,4 +30,5 @@ to also write tools to help them with local web development.
  I'm  working on running the command line "npm run compile:sass" to compile the css with the sass file 
 
  took me like 7 hours to find the problem  I fixed changed the name of the carpet! let continue
+ if I want to watch my code with the command line like "watch sass function I have to add -w to the script on packet json!
  
