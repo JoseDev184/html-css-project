@@ -31,4 +31,6 @@ to also write tools to help them with local web development.
 
  took me like 7 hours to find the problem  I fixed changed the name of the carpet! let continue
  if I want to watch my code with the command line like "watch sass function I have to add -w to the script on packet json!
+
+ Monday and Tuesday are the best days to programming this week i will finish my sass project and complete 8 hours of work!
  
