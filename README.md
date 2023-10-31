@@ -28,4 +28,6 @@ to also write tools to help them with local web development.
  so far I have created a package.json for de dependency on the project  I have to update the version for both NPM and Node Js.
  the command line was " NPM INIT" and NPM install other I have to run a command "NPM install node-sass --save-dev"!
  I'm  working on running the command line "npm run compile:sass" to compile the css with the sass file 
+
+ took me like 7 hours to find the problem  I fixed changed the name of the carpet! let continue
  
