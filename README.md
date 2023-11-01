@@ -33,4 +33,39 @@ to also write tools to help them with local web development.
  if I want to watch my code with the command line like "watch sass function I have to add -w to the script on packet json!
 
  Monday and Tuesday are the best days to programming this week i will finish my sass project and complete 8 hours of work!
- 
+
+ ok ok tirame el bic, shut up mind all right let contiinue with this project learning deep css ans sass 
+ if we select the element .header for example in sass with dont have to use sudoclasses like .header_text-box with use &_text_box:
+
+ .header {
+  height: 95vh;
+  background-image: linear-gradient(
+      to right bottom,
+      rgba(209, 10, 10, 0.154),
+      rgba(144, 144, 195, 0.652)
+    ),
+    url(/image/rsz_viator_shutterstock_186247-1200x809.webp);
+  background-size: cover;
+  background-position: top;
+  position: relative;
+
+  clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
+
+  &__logo-box {
+    position: absolute;
+    top: 4rem;
+    left: 4rem;
+  }
+
+  &__logo {
+    height: 4.5rem;
+  }
+
+  &__text-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+}
