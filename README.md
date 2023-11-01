@@ -69,3 +69,17 @@ to also write tools to help them with local web development.
     text-align: center;
   }
 }
+
+
+create carpet for each sass code and fuctions to have a organize code clear that other can get what are you coding "import" is the code that with used to link the code with the main sass file.
+
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typopgraphy";
+@import "base//utilities";
+
+@import "pages/home";
