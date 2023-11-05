@@ -85,4 +85,4 @@ create carpet for each sass code and fuctions to have a organize code clear that
 @import "pages/home";
 
 
-contiene grown today was very productive day working coding, the goal is each day at least 30 min!  contancy and practice make yopu goat!!!!!!!!
+contiene grown today was very productive day working coding, the goal is each day at least 30 min!  contancy and practice make yopu goat!!!!!!!!!!
