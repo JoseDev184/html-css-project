@@ -86,3 +86,6 @@ create carpet for each sass code and fuctions to have a organize code clear that
 
 
 contiene grown today was very productive day working coding, the goal is each day at least 30 min!  contancy and practice make yopu goat!!!!!!!!!!
+
+
+still working on the  projec t with  udemy i  already have some class and community to meet!!
