@@ -71,7 +71,7 @@ to also write tools to help them with local web development.
 }
 
 
-create carpet for each sass code and fuctions to have a organize code clear that other can get what are you coding "import" is the code that with used to link the code with the main sass file.
+create a carpet for each sass code and functions to have an organized code clear that others can get what you are coding "Import" is the code that is used to link the code with the main sass file.
 
 @import "abstracts/functions";
 @import "abstracts/mixins";
@@ -79,14 +79,14 @@ create carpet for each sass code and fuctions to have a organize code clear that
 
 @import "base/base";
 @import "base/animations";
-@import "base/typopgraphy";
+@import "base/typography";
 @import "base//utilities";
 
 @import "pages/home";
 
 
-contiene grown today was very productive day working coding, the goal is each day at least 30 min!  contancy and practice make yopu goat!!!!!!!!!!
+continue growth today was a very productive day working coding, the goal is for each day at least 30 min!  constancy and practice make you goat!!!!!!!!!!
 
 !!!
-still working on the  projec t with  udemy i  already have some class and community to meet!!
-utility class to central text
+still working on the  project with  Udemy i  already have some classes and community to meet!!
+utility class to central text utilities classes to set specific classes to called by unique classes!
