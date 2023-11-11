@@ -89,3 +89,4 @@ contiene grown today was very productive day working coding, the goal is each da
 
 !!!
 still working on the  projec t with  udemy i  already have some class and community to meet!!
+utility class to central text
