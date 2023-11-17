@@ -1,4 +1,4 @@
-# html-css-project
+lo# html-css-project
 
 working on css project to strengthen my skills in css and Flex Box ect,
 this course is really helpful because we make it a website where with can work with Sass and css advance in more detail!
@@ -89,4 +89,4 @@ continue growth today was a very productive day working coding, the goal is for 
 
 !!!
 still working on the  project with  Udemy i  already have some classes and community to meet!!
-utility class to central text utilities classes to set specific classes to called by unique classes!
+utility class to central text utilities classes to set specific classes to called by unique classes!!!!
