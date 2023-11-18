@@ -88,5 +88,5 @@ create a carpet for each sass code and functions to have an organized code clear
 continue growth today was a very productive day working coding, the goal is for each day at least 30 min!  constancy and practice make you goat!!!!!!!!!!
 
 !!!
-still working on the  project with  Udemy i  already have some classes and community to meet!!
+still working on the  project with  Udemy i  already have some classes and community to meet!!!!!
 utility class to central text utilities classes to set specific classes to called by unique classes!!!!
