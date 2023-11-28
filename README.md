@@ -93,3 +93,4 @@ utility class to central text utilities classes to set specific classes to calle
 
 
 2 weeks before the project I made a commitment to myself to doing every day at least 20 minutes
+still working on this project, need to make my schedules =!
