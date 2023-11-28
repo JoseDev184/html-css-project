@@ -1,0 +1,15 @@
+.section-about {
+  background-color: $color-grey-light-1;
+  padding: 25rem 0;
+  margin-top: -20rem;
+}
+.section-features {
+  padding: 20rem 0;
+  background-image: linear-gradient(
+      to right bottom,
+      rgb(209, 10, 10),
+      rgba(144, 144, 195, 0.792)
+    ),
+    url(/image/istockphoto-1409236261-612x612.jpg);
+  background-size: cover;
+}
