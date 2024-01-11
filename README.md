@@ -1,4 +1,4 @@
-lo# html-css-project!
+lo# html-css-project!!
 
 working on css project to strengthen my skills in css and Flex Box ect,
 this course is really helpful because we make it a website where with can work with Sass and css advance in more detail!
