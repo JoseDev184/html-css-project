@@ -110,6 +110,7 @@ color wheel to combine color for webside!
 
 
 
-I would like to have the same energy to continue with my projects on coding  3(
+1-I would like to have the same energy to continue with my projects on coding  3(
+2-second day in a row practice in code academy! still feeling sad! but I need to get energy from my inside, today I  choose me me and me!
 
 
