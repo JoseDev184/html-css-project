@@ -1,54 +1,90 @@
-lo# html-css-project!!
 
-working on css project to strengthen my skills in css and Flex Box ect,
-this course is really helpful because we make it a website where with can work with Sass and css advance in more detail!
+💻 HTML & CSS Project Log
+Week Overview: Deep Dive into CSS, Flexbox & Sass
+I'm currently working on a front-end development project focused on improving my skills in CSS, Flexbox, and Sass. This course has been incredibly helpful, as it's not just theory—we're actually building a full website. It’s a hands-on way to practice advanced CSS concepts and work with Sass in more detail.
 
+🧠 Learning Sass
+Sass (Syntactically Awesome Stylesheets) is a powerful CSS preprocessor. It's like an extension of CSS that brings added functionality and cleaner syntax to your stylesheets.
 
-Sass
+Here are the key Sass features I've been working with:
 
-sass is a CSS preprocessor, an extension of CSS that adds power and elegance to the basic language 
-in other to work with Sass on our project with need a Sass-compiled
+Variables – Store reusable values like colors, font sizes, and spacing.
 
-variable: for reusable values such as colors, font sizes, and spaces;
-nesting: to nest selectors inside of one another, allowing us to write less code;
-operations: for mathematical operations  right inside;
-partials and imports: to write CSS in different files and import them all into one single file;
-mixins: to write reusable CSS code;
-functions: similar to mixins, with the difference that they produce a value that can be used;
-extends: to make different selectors inherit declarations that are common to all of them;
+Nesting – Allows selectors to be nested inside each other, resulting in more readable code.
 
-node js allows the developer to write and run  javascript applications on the server developer starter using node js
-to also write tools to help them with local web development.
+Operations – Perform mathematical operations directly in your stylesheets.
 
-"NPM init" in the command line is going to create a package Json to start working with Sass
+Partials & Imports – Break code into smaller files and import them into a main stylesheet.
 
- npm install node-sass --save-dev to create a  sass compiled on the terminal
- working on the error terminal show now!
+Mixins – Reusable chunks of code that can be included wherever needed.
 
- so far I have created a package.json for de dependency on the project  I have to update the version for both NPM and Node Js.
- the command line was " NPM INIT" and NPM install other I have to run a command "NPM install node-sass --save-dev"!
- I'm  working on running the command line "npm run compile:sass" to compile the css with the sass file 
+Functions – Similar to mixins, but return values.
 
- took me like 7 hours to find the problem  I fixed changed the name of the carpet! let continue
- if I want to watch my code with the command line like "watch sass function I have to add -w to the script on packet json!
+Extend – Share a set of CSS properties from one selector to another.
 
- Monday and Tuesday are the best days to programming this week i will finish my sass project and complete 8 hours of work!
+⚙️ Project Setup: Node.js & NPM
+To compile Sass and manage dependencies, I’ve been using Node.js and NPM. Here’s a quick breakdown of what I did:
 
- ok ok tirame el bic, shut up mind all right let contiinue with this project learning deep css ans sass 
- if we select the element .header for example in sass with dont have to use sudoclasses like .header_text-box with use &_text_box:
+Initialize the project:
 
- .header {
+bash
+Copy
+Edit
+npm init
+This created a package.json file to manage project dependencies.
+
+Install Sass compiler:
+
+bash
+Copy
+Edit
+npm install node-sass --save-dev
+Create a Sass compile script:
+In package.json, I added a script:
+
+json
+Copy
+Edit
+"scripts": {
+  "compile:sass": "node-sass sass/main.scss css/style.css -w"
+}
+The -w flag tells Sass to watch for changes and recompile automatically.
+
+✅ After some debugging (including fixing a folder name issue that took hours 😅), I finally got the compile command running!
+
+🗂️ Sass File Structure
+To keep my project organized and scalable, I split Sass code into multiple folders and files. Here's how I structured the imports in the main main.scss:
+
+scss
+Copy
+Edit
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+@import "pages/home";
+Each folder handles specific responsibilities—this makes the code much easier to maintain and understand.
+
+🖼️ Example Sass Code
+scss
+Copy
+Edit
+.header {
   height: 95vh;
   background-image: linear-gradient(
       to right bottom,
-      rgba(209, 10, 10, 0.154),
-      rgba(144, 144, 195, 0.652)
+      rgba(209, 10, 10, 0.15),
+      rgba(144, 144, 195, 0.65)
     ),
     url(/image/rsz_viator_shutterstock_186247-1200x809.webp);
   background-size: cover;
   background-position: top;
   position: relative;
-
   clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 100%);
 
   &__logo-box {
@@ -69,48 +105,32 @@ to also write tools to help them with local web development.
     text-align: center;
   }
 }
+Note how the &__ syntax makes it easy to keep class names modular and readable.
 
+🔧 Tools & Resources
+🎨 Adobe Color Wheel – For creating beautiful color palettes.
 
-create a carpet for each sass code and functions to have an organized code clear that others can get what you are coding "Import" is the code that is used to link the code with the main sass file.
+🌈 Color Safe – Ensures text contrast and accessibility.
 
-@import "abstracts/functions";
-@import "abstracts/mixins";
-@import "abstracts/variables";
+🧪 Code Editor: VS Code
 
-@import "base/base";
-@import "base/animations";
-@import "base/typography";
-@import "base//utilities";
+🔧 Terminal for running NPM scripts
 
-@import "pages/home";
+🧠 Mindset & Motivation
+I've made a commitment to practice coding every day, even if it's just for 20–30 minutes. Some days are harder than others—yes, I’ve felt down—but I keep reminding myself: progress over perfection.
+Today I chose me. I'm investing in my future, learning something valuable, and pushing through the tough parts. 💪
 
+🏁 Goals
+Finish the Sass project by the end of this week.
 
-continue growth today was a very productive day working coding, the goal is for each day at least 30 min!  constancy and practice make you goat!!!!!!!!!!!
+Log at least 8 hours of focused learning.
 
-!!!
-still working on the  project with  Udemy i  already have some classes and community to meet!!!!!
-utility class to central text utilities classes to set specific classes to called by unique classes!!!!!!
+Stay consistent—30 minutes minimum of daily practice.
 
+🚀 Final Thoughts
+This project has been a rollercoaster—frustrating bugs, breakthrough moments, and real progress. I’m learning, building, and growing. Can't wait to see where this journey takes me next.
 
-2 weeks before the project I made a commitment to myself to doing every day at least 20 minutes
-I am still working on this project, need to make my schedules =!
+Let’s keep going! 👨‍💻🔥
 
-
-in the project with uses this awesome website that get me access to work on my website with emojis for muy mackup!!!!
-! project in going!!!!!!!!!!!!!!
-i need to get it done ahhh  
-
-
-           webside helpful
-1-https://color.adobe.com/create/color-wheel
-2-http://colorsafe.co/
-color wheel to combine color for webside!
-
-![color generador  website!](https://github.com/JoseDev184/html-css-project/assets/147019566/25eba5f6-09e9-40b2-aaaf-f32198b38bb0)
-
-
-
-1-I would like to have the same energy to continue with my projects on coding  3(
-2-second day in a row practice in code academy! still feeling sad! but I need to get energy from my inside, today I  choose me me and me!
-
+still here
 
